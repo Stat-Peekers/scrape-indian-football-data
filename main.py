@@ -17,7 +17,7 @@ def logger_setup():
 
 def get_tour_match_ids(tour_name):
     # Read the existing json file:
-    fixture_data = get_data_from_file_json(f"data/{tour_name}/fixture_info.json")
+    fixture_data = get_data_from_file_json(f"../data/Football/AIFF/{tour_name}/fixture_info.json")
     return [fix["id"] for fix in fixture_data["events"] if fix["link"] != ""]
 
 
