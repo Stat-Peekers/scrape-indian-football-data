@@ -1,0 +1,66 @@
+[
+	{
+		"tour_id" : 366,
+		"tour_name" : "Durand Cup 2022",
+		"series.name" : "Durand Cup 2022",
+		"series.short_name" : "Durand Cup 2022",
+		"series.parent_series_id" : 366,
+		"series.parent_series_name" : "Durand Cup"
+	},
+	{
+		"tour_id" : 620,
+		"tour_name" : "Durand Cup 2023",
+		"series.name" : "Durand Cup 2023",
+		"series.short_name" : "Durand Cup 2023",
+		"series.parent_series_id" : 620,
+		"series.parent_series_name" : "Durand Cup"
+	},
+	{
+		"tour_id" : 237,
+		"tour_name" : "Durand Cup 2021",
+		"series.name" : "Durand Cup 2021",
+		"series.short_name" : "Durand Cup 2021",
+		"series.parent_series_id" : 237,
+		"series.parent_series_name" : "Durand Cup"
+	},
+	{
+		"tour_id" : 603,
+		"tour_name" : "Calcutta Football League Premier Division 2023",
+		"series.name" : "Calcutta Football League Premier Division 2023",
+		"series.short_name" : "Calcutta Football League Premier Division 2023",
+		"series.parent_series_id" : 603,
+		"series.parent_series_name" : "Calcutta Football League Premier Division"
+	},
+	{
+		"tour_id" : 823,
+		"tour_name" : "Kalinga Super Cup 2024",
+		"series.name" : "Kalinga Super Cup 2024",
+		"series.short_name" : "Super Cup 2024",
+		"series.parent_series_id" : 823,
+		"series.parent_series_name" : "Super Cup"
+	},
+	{
+		"tour_id" : 604,
+		"tour_name" : "Indian Super League 2023-24",
+		"series.name" : "Indian Super League 2023-24",
+		"series.short_name" : "ISL 2023-24",
+		"series.parent_series_id" : 604,
+		"series.parent_series_name" : "Indian Super League"
+	},
+	{
+		"tour_id" : 721,
+		"tour_name" : "I-League 2023-24",
+		"series.name" : "I-League 2023-24",
+		"series.short_name" : "IL 2023-24",
+		"series.parent_series_id" : 721,
+		"series.parent_series_name" : "I-League"
+	},
+	{
+		"tour_id" : 645,
+		"tour_name" : "Santosh Trophy 2023-24",
+		"series.name" : "Santosh Trophy 2023-24",
+		"series.short_name" : "ST 2023-24",
+		"series.parent_series_id" : 645,
+		"series.parent_series_name" : "Santosh Trophy"
+	}
+]
