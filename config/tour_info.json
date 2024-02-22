@@ -54,5 +54,13 @@
 		"series.short_name" : "IL 2023-24",
 		"series.parent_series_id" : 721,
 		"series.parent_series_name" : "I-League"
+	},
+	{
+		"tour_id" : 645,
+		"tour_name" : "Santosh Trophy 2023-24",
+		"series.name" : "Santosh Trophy 2023-24",
+		"series.short_name" : "ST 2023-24",
+		"series.parent_series_id" : 645,
+		"series.parent_series_name" : "Santosh Trophy"
 	}
 ]

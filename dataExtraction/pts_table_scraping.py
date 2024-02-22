@@ -22,11 +22,12 @@ class PtsTable:
         response = requests.get(self.scrape_url)
         if response.status_code != 200:
             raise Exception("Response was code " + str(response.status_code))
-        data_dir = f"../../data/Football/AIFF/{self.tour_name}/"
+        data_dir = f"../data/Football/AIFF/{self.tour_name}/"
         if not os.path.exists(data_dir):
             os.makedirs(data_dir)
         put_data_to_file_json(data_dir + "points_table.json", response.json())
 
-if __name__=="__main__":
+
+if __name__ == "__main__":
     t_id, t_name = select_tournament_name()
     PtsTable(t_id, t_name)
